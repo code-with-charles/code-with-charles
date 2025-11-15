@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @code-with-charles
-- 👀 I’m interested in python dev and android using kotlin and flutter for crossmatplatform 
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on android development 
+- 👀 I’m interested in software engineering ,backend systems, Api security  and cloud solutions .
+- 🌱 I’m currently learning microservices infrastructe and cloud optimalsation
+- 💞️ I’m looking to collaborate on complex backend systems and architectures
 - 📫 How to reach me on whatapp +254768300226 and email CodeWithCharles@outlook.com
-- 😄 Pronouns: Code,  kotlin,python,flutter,django
+- 😄 Pronouns: Code,  Express js,python,Node js,django
 - ⚡ Fun fact: i take coding like puzzle games😂 
 
 <!---
