@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/768300226/your-banner-image.png" alt="Code With Charles Banner" width="100%" />
+  
+  <img src="[https://user-images.githubusercontent.com/768300226/your-banner-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbanner-tech%3Fimage_type%3Dphoto%26page%3D3&psig=AOvVaw3bM8YStJ_bUBccMgSiR8s2&ust=1765550780937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODc4q_jtZEDFQAAAAAdAAAAABAE)" alt="Code With Charles Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Charles — @code-with-charles</h1>
