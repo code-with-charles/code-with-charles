@@ -1,70 +1,82 @@
-<!-- Profile Banner -->
+<!-- Banner (Replace the link with your own banner image) -->
 <p align="center">
+  <img width="1407" height="503" alt="image" src="https://github.com/user-attachments/assets/56921c24-a04f-4bf4-8fb0-7bccec11546d" />
+
   
-  <img src="[https://user-images.githubusercontent.com/768300226/your-banner-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbanner-tech%3Fimage_type%3Dphoto%26page%3D3&psig=AOvVaw3bM8YStJ_bUBccMgSiR8s2&ust=1765550780937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODc4q_jtZEDFQAAAAAdAAAAABAE)" alt="Code With Charles Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Charles — @code-with-charles</h1>
-<h3 align="center"><i>Backend Engineer | API Specialist | Cloud & Microservices Enthusiast</i></h3>
+<h1 align="center">👋 Hey there, I'm Charles</h1>
+<h3 align="center">Backend Engineer • API Security • Cloud & Microservices</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Securing+APIs+and+Cloud+Infra;Designing+Distributed+Microservices;Solving+Engineering+Puzzles+Everyday" />
+</p>
 
 ---
 
-## 👀 About Me
-I'm passionate about building **high-performance backend systems**, securing APIs, and crafting scalable **cloud-native architectures**.  
-I love tackling complex challenges like solving a puzzle 🧩.
+## 👨‍💻 When I code, I rely on
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Distributed Systems & Microservices  
-- Cloud Infrastructure Optimization ☁️  
-- Scalable API Design Patterns  
-- DevOps & Container Orchestration 🐳  
+## ✨ About Me
 
----
+I'm passionate about building **scalable, secure, and high-performance backend systems**.  
+I enjoy breaking down complex architecture problems the same way I enjoy solving puzzles.  
 
-## 🤝 Looking to Collaborate On
-- Complex Backend Architecture  
-- API Security & Optimization 🔒  
-- Microservices & Distributed Systems  
-- Scalable SaaS & Automation Projects  
+🔭 **Currently learning:**  
+Microservices infrastructure • API optimization • Cloud security • CI/CD pipelines  
+
+🤝 **Open to collaborating on:**  
+Backend systems • Microservices • API hardening • Cloud automation  
 
 ---
 
 ## 📫 Contact Me
-<p>
-  <a href="https://wa.me/254768300226"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="mailto:CodeWithCharles@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/code-with-charles"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+
+<p align="left">
+  <a href="https://wa.me/254768300226"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:charlesmarxist2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/code-with-charles"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-charles&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-charles&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-charles&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-charles&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-I approach coding like a puzzle — the more complex, the more fun I’m having! 😄  
+## ⚡ Fun Fact  
+I treat coding like puzzle games — the harder it gets, the more fun I have 😄
 
 ---
-
 <!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Securing+APIs;Exploring+Cloud+Solutions;Solving+Coding+Puzzles" alt="Typing Animation">
