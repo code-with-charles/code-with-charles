@@ -53,14 +53,16 @@ Backend systems • Microservices • API hardening • Cloud automation
 ---
 <!-- GitHub Trophies (primary) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-charles&theme=darkhub&no-frame=true&margin-w=15" alt="<img width="716" height="407" alt="image" src="https://github.com/user-attachments/assets/3a9daf9f-cf7d-4f6b-8a81-83efcdc5dd05" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-charles&theme=darkhub&no-frame=true&margin-w=15" alt="
 " />
+  <img width="716" height="407" alt="image" src="https://github.com/user-attachments/assets/3a9daf9f-cf7d-4f6b-8a81-83efcdc5dd05" />
 </p>
 
 <!-- GitHub stats + streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=tokyonight" alt="<img width="1060" height="335" alt="image" src="https://github.com/user-attachments/assets/b9b6544d-85b2-4b6c-aa6a-6c9fe9b3b89e" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=tokyonight" alt="
 " />
+  <img width="1060" height="335" alt="image" src="https://github.com/user-attachments/assets/b9b6544d-85b2-4b6c-aa6a-6c9fe9b3b89e" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-charles&theme=tokyonight" alt="Streak Stats" />
 </p>
 
