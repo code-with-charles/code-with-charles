@@ -51,27 +51,22 @@ Backend systems • Microservices • API hardening • Cloud automation
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
+<!-- GitHub Trophies (primary) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-charles&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-charles&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
+<!-- GitHub stats + streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-charles&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-charles&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-charles&theme=tokyonight" alt="Streak Stats" />
 </p>
 
+<!-- Top languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-charles&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-charles&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
 ## ⚡ Fun Fact  
 I treat coding like puzzle games — the harder it gets, the more fun I have 😄
